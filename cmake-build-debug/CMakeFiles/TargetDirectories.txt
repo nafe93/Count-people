@@ -1,0 +1,3 @@
+/home/C++/computerVision/opencv/count_people/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/C++/computerVision/opencv/count_people/cmake-build-debug/CMakeFiles/count_people.dir
+/home/C++/computerVision/opencv/count_people/cmake-build-debug/CMakeFiles/edit_cache.dir
